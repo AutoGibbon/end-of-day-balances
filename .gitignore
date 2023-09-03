@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/EndOfDayBalances/EndOfDayBalances/bin/Debug/net6.0
+/EndOfDayBalances/.vs
+/EndOfDayBalances/EndOfDayBalances/obj
+/EndOfDayBalances/EndOfDayBalancesTests/bin/Debug/net6.0
+/EndOfDayBalances/EndOfDayBalancesTests/obj
